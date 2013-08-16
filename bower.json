@@ -1,0 +1,15 @@
+{
+  "name": "jquery-hover-zoom",
+  "version": "0.1.0",
+  "main": "jquery-hover-zoom.js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery.transit": "~0.9.9"
+  }
+}
